@@ -123,7 +123,13 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 
 ![Screenshot_20221124_120203](https://user-images.githubusercontent.com/116781677/203700488-0088f014-1f06-4f4d-94d8-f32161c03710.png)
 
+SECCIÓN 5–9 Mediciones de voltaje
 
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/116781677/203702286-b03febb6-0cfb-4af3-825e-e269e160012a.png)
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 
 
