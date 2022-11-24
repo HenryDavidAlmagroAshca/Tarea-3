@@ -24,6 +24,9 @@ SECCIÓN 5–1 Resistores en serie
 
 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68
 
+5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+
+![image](https://user-images.githubusercontent.com/116781677/203673724-56da94c6-de0f-43f4-b9f7-f99c1ad4ceb0.png)
 
 
 # 4. VIDEO
