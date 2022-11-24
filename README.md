@@ -107,6 +107,24 @@ SECCIÓN 5–7 Divisores de voltaje
 
 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
+![Screenshot_20221123_114401](https://user-images.githubusercontent.com/116781677/203700334-027dd058-f970-4fee-90f2-2bdb08416845.png)
+
+41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
+
+![Screenshot_20221123_115016](https://user-images.githubusercontent.com/116781677/203700350-96734c39-d02c-40bf-9486-ab5d3ad024cc.png)
+
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+![Screenshot_20221123_115707](https://user-images.githubusercontent.com/116781677/203700386-3e067614-81ea-4d83-af0d-ec6cfab347f8.png)
+
+SECCIÓN 5–8 Potencia en circuitos en serie
+
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43
+
+![Screenshot_20221124_120203](https://user-images.githubusercontent.com/116781677/203700488-0088f014-1f06-4f4d-94d8-f32161c03710.png)
+
+
+
 
 
 # 4. VIDEO
