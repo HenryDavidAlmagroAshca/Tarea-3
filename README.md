@@ -60,6 +60,55 @@ SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
 
+![image](https://user-images.githubusercontent.com/116781677/203692160-83c52a2d-bc50-4ac8-823a-3085063afbde.png)
+
+21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
+
+(a) ¿Cuál es la corriente en el circuito?
+![image](https://user-images.githubusercontent.com/116781677/203692228-eae58581-f40c-4974-b010-102908bbbeb4.png)
+
+(b) ¿Cuál es el voltaje a través de cada resistor?
+![image](https://user-images.githubusercontent.com/116781677/203692255-d8dedaf9-fc1a-494b-aea9-7a42763dad23.png)
+
+(c) ¿Cuál es el valor nominal de potencia de los resistores?
+![image](https://user-images.githubusercontent.com/116781677/203692286-35036df9-ae98-4292-84e2-99ef73e4dc03.png)
+
+23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+![image](https://user-images.githubusercontent.com/116781677/203692381-626cf1e5-deb3-401d-a0d1-56d84161f60d.png)
+
+27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+
+El voltaje total sera de 14V
+
+29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+
+![Screenshot_20221123_101358](https://user-images.githubusercontent.com/116781677/203692690-c496d1e3-fd90-4977-bd06-6b13f83a42f1.png)
+
+SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+
+31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
+
+![Screenshot_20221123_101646](https://user-images.githubusercontent.com/116781677/203692865-ce934cdc-69bd-4413-9c3d-2a895e8ffd22.png)
+
+33. En el circuito de la figura 5-81, determine la resistencia de R4.
+
+![Screenshot_20221123_102914](https://user-images.githubusercontent.com/116781677/203692950-f9728c4c-7cef-4c75-bc3f-d4ac08a87a37.png)
+
+35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+
+![Screenshot_20221123_105739](https://user-images.githubusercontent.com/116781677/203692984-afa89dfd-76a5-4990-93a8-b241f759ac22.png)
+
+SECCIÓN 5–7 Divisores de voltaje
+
+37. La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Æ que forma parte de la resistencia total en serie?
+
+![Screenshot_20221123_110312](https://user-images.githubusercontent.com/116781677/203693067-33055b64-0eeb-4220-a3d4-7a2830e0b154.png)
+
+39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+
+
+
 # 4. VIDEO
 
 
