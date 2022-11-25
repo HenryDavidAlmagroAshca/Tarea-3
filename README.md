@@ -1,5 +1,9 @@
 # Informe Tarea 3
 
+Alumno: Henry Almagro
+NRC: 10063
+Carrera: Mecatronica
+
 # 1. OBJETIVOS
 
 -Objetivo General
