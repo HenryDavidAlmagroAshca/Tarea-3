@@ -4,14 +4,25 @@
 
 -Objetivo General
 
-
+    Identificar caracteristicas de los elementos en circuitos ya sean en serie o paralelo
   
 -Objetivos Especificos
 
+    Aplicar la ley de Ohm a circuitos en serie y paralelo
 
+    Aplicar la ley del voltaje de Kirchhoff
+
+    Aplicar la ley del corriente de Kirchhoff
+
+    Identificar divisores de voltaje
+
+    identificar divisores de corriente
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+![Screenshot_20221125_014122](https://user-images.githubusercontent.com/116781677/204043321-98b22fa2-d775-4984-9b9f-2b1ddc181fac.png)
+
+![image](https://user-images.githubusercontent.com/116781677/204043298-9e9c16f3-9780-473f-a151-15e499086e02.png)
 
 
 # 3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -21,8 +32,6 @@ SECCIÓN 5–1 Resistores en serie
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
 
 ![image](https://user-images.githubusercontent.com/116781677/203669745-92d1cf72-e36a-4c52-9f42-0d40eeaec7c2.png)
-
-3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68
 
 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
@@ -65,12 +74,15 @@ SECCIÓN 5–4 Aplicación de la ley de Ohm
 21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
 
 (a) ¿Cuál es la corriente en el circuito?
+
 ![image](https://user-images.githubusercontent.com/116781677/203692228-eae58581-f40c-4974-b010-102908bbbeb4.png)
 
 (b) ¿Cuál es el voltaje a través de cada resistor?
+
 ![image](https://user-images.githubusercontent.com/116781677/203692255-d8dedaf9-fc1a-494b-aea9-7a42763dad23.png)
 
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
+
 ![image](https://user-images.githubusercontent.com/116781677/203692286-35036df9-ae98-4292-84e2-99ef73e4dc03.png)
 
 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
@@ -135,10 +147,24 @@ SECCIÓN 5–9 Mediciones de voltaje
 
 # 4. VIDEO
 
-
+https://youtu.be/UxF4CP-wQWk
 
 # 5. CONCLUSIONES
 
+El ponder identificar las caracteristicas y comportamiento del voltaje y corriente en circuitos paralelos o en serie es de los puntos mas importantes para el correcto desarrollo de ejercicios 
+
+La LDK ya sea de voltajes o corrientes no podra ser aplicada de forma correcta si no sabemos indentificar entres circuitos en serie y circuitos en paralelo
+
+El uso de formulas en estos temas es bastante frecuente, por lo que es necesario el conocimiento necesario para la comprension y resolcion de problemas
 
 
 # 6. BIBLIOGRAFIA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Retrieved Noviembre 2022
+
+Meister, M. (n.d.). Mapas. Retrieved Noviembre 2022, from https://www.mindmeister.com
+
+Tecnologia, A. (n.d.). Area Tecnologia. Retrieved Noviembre 2022, from CIRCUITOS EN SERIE Y EN PARALELO: https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm
+
+
+
